@@ -1,3 +1,5 @@
+# This is the original, unedited source file.
+
 🚀 JavaScript Debugging Challenge: Spot & Fix the Errors! 🚀
 
 Hello everyone!
