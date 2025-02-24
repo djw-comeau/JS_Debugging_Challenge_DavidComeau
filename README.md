@@ -1,4 +1,10 @@
-# This is the original, unedited source file.
+# See Below
+
+Hi Nadia,
+
+GitHub wouldn't cooperate with me, so I simply commented out the incorrect code in the .js file and then the corrected code is below that. 
+
+Thanks.
 
 🚀 JavaScript Debugging Challenge: Spot & Fix the Errors! 🚀
 
